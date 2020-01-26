@@ -2,23 +2,13 @@
 
 
 ## Tequila Quillas:
-### Mateo Izurieta
-### Maximiliam Albrecht
-### Iván López
+#### Maximiliam Albrecht
+#### Mateo Izurieta
+#### Iván López
 
-#### BER-01-20
-#### 2020-01-27
+##### BER-01-20
+##### 2020-01-27
 
-
-
-## Content
-Project Description
-Questions & Hypotheses
-Dataset
-Database
-Workflow
-Organization
-Links
 
 ## Project Description
 Facing the daily question: what I could eat tonight? The deliverable is an executable file on jupyter notebook, able to guide the user for a search based on different criterias (type of food, ingredients,...) where finally recieves the complete recipe. The user-case also is extended to prepare cocktails and other kind of drinks.
@@ -27,6 +17,7 @@ A public API provides the information, so is not stored locally, but fetched fro
 
 ## Questions & Hypotheses
 We set what we can call "interactive consulting database", solving the problem of decision making in regards eating or drinking, displaying several options according to user election
+
 
 ## Dataset
 Information is provided by Open API Dataset
@@ -45,6 +36,7 @@ The search allows to type the name of the meal (partial typing is allowed), whic
 Selecting a specific option provides the final information of the recipe.
 
 Additional step are necessary if the user chooses category or origin: a list of options are displayed. Depending the selection, it will narrow down the list with the different meals or drinks, till preferred election will display the complete recipe. 
+
 
 ## Workflow
 After a brainstorming session, we had a list of ideas. Among them, we researched for different sources and made short attempt to have a prototype done (to check if it is "doable" in the limited period of time).
@@ -67,9 +59,11 @@ We arranged a informal but systematic approach: regular short meeting (3-4 times
 
 ### Main.ipynb
 File containing the functions to execute with Jupyter Notebook
+https://github.com/izu-97/Drinks-and-meals/blob/master/Main.ipynb
 
 ### project3-drinks-and-meals.jpg 
 structure diagram in image format
+https://github.com/izu-97/Drinks-and-meals/blob/master/project3-drinks-and-meals.jpg
 
 ### Ignore
-folder contains the different files we generated along the process, unnecessary for the evaluation of the project but relevant for the authors as "notes" and "backups files"
+folder contains the different files we generated along the process, unnecessary for the evaluation of the project but relevant for the authors as "notes" and "backups files".
